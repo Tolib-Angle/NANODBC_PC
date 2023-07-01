@@ -4,9 +4,9 @@ Console applications for database administration (C++, CMake, NANODBC, PostrgreS
 
 Necessary packages to run the program: [NANODBC](https://github.com/nanodbc/nanodbc)
 
-The starting point of the programm: [PublishingCenter.cpp](https://github.com/Tolib-Angle/PublishingCenter_NANODBC/blob/main/PublishingCenter.cpp)
+The starting point of the programm: [PublishingCenter.cpp](https://github.com/Tolib-Angle/NANODBC_PC/blob/main/PublishingCenter.cpp)
 
-BackUp database stored in file: [PublishingCenterDateBase](https://github.com/Tolib-Angle/PublishingCenter_NANODBC/blob/main/PublishingCenter.txt) (! _The date in the database is fictional_ !)
+BackUp database stored in file: [PublishingCenterDateBase](https://github.com/Tolib-Angle/NANODBC_PC/blob/main/PublishingCenter.txt) (! _The date in the database is fictional_ !)
 
 DateBase recoviry: `psql datebase_name < file_db_dump`
 
